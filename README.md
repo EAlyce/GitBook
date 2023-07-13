@@ -4,11 +4,27 @@ description: 最近更新于2023/07/13
 
 # 前言
 
-&#x20;      在阅读并使用本教程前，请您注意，**本教程是入门基础教程,由非官方人员编写，**它并不适用于所有人。快速上手Surge请点击：[快速入门](basic/)
+&#x20;      在阅读并使用本教程前，请您注意：
+
+&#x20;        `1、本教程是入门基础教程,由非官方人员编写，它并不适用于所有人。`
+
+&#x20;      `2、本教程仅适用于非越狱正版用户。`
+
+&#x20;      `3、使用Surge需要一定的代理软件与网络相关基础知识。`
+
+
+
+快速上手Surge请点击：[快速入门](basic/)
+
+
 
 [pei-zhi-tong-bu.md](pei-zhi-tong-bu.md "mention") Surge iOS配置与Surge Mac标准配置通用，您可直接使用iOS端配置，本教程不再另作Mac端教程，请您自行在网络上查找其他教程。
 
+
+
 跳转至 [mu-lu-dao-hang.md](mu-lu-dao-hang.md "mention")
+
+
 
 官方手册：[https://manual.nssurge.com/](https://manual.nssurge.com/)
 
