@@ -24,7 +24,8 @@ description: 最近更新于2023/07/13
 
 跳转至 [mu-lu-dao-hang.md](mu-lu-dao-hang.md "mention")
 
-
+Surge开发者 `Surge Networks Inc.` \
+电子邮件 `support@nssurge.com`
 
 官方手册：[https://manual.nssurge.com/](https://manual.nssurge.com/)
 
@@ -48,31 +49,37 @@ description: 最近更新于2023/07/13
 
 ### 二、购买方式
 
-&#x20;      1、商店内购；
+&#x20;      1、商店内购
 
-&#x20;      2、官网(支持支付宝)购买： [https://nssurge.com/buy\_now](https://nssurge.com/buy\_now)\
-&#x20;            推荐官网购买，Apple大额内购可能会导致账号风控并且封号。
+&#x20;      2、官网(支持信用卡与支付宝)： [https://nssurge.com/buy\_now](https://nssurge.com/buy\_now)
+
+\
+&#x20;          `推荐官购买，Apple大额内购可能会导致账号风控并且封号。`
 
 ### 三、其他说明
 
-&#x20;      首次使用Surge有7天试用期，若您在试用期内购买Surge，可以在 更多->授权管理->反激活当前设备，然后选择升级到Surge Pro,点击恢复购买，选择：\
+&#x20;      首次使用Surge有7天试用期，若您在试用期内购买Surge，可以在 更多->授权管理->反激活当前设备，然后选择升级到Surge Pro,点击恢复购买，选择：
+
+\
 &#x20;      1、恢复App内购买项目；\
+\
 &#x20;      2、使用邮箱恢复。
 
 &#x20;      授权管理以及申请TestFlight：[https://nssurge.com/account](https://nssurge.com/account)\
 \
-&#x20;      请注意TF版**不能和商店版共存**，若想使用另一版本则需要卸载原先版本，**TF占用一个设备名额，使用TF版本前请先激活商店版，再卸载商店版，然后下载TF版本即可。**
+&#x20;      `请注意TF版`**`不能和商店版共存`**`，若想使用另一版本则需要卸载原先版本，`\
+&#x20;  **`TF占用一个设备名额，使用TF版本前请先激活商店版，再卸载商店版，然后下载TF版本即可。`**
 
 &#x20;      <mark style="color:red;">Surge 5 目前仅支持以下协议：</mark><mark style="color:red;">**HTTP、HTTPS、SOCKS5、SOCKS5 via TLS、Snell、Shadowsocks、VMess、Trojan、SSH、WireGuard、TUIC**</mark>
 
-&#x20;     :bell: **请注意：Surge 5 不支持SSR协议，Surge 5 仅支持iOS 15及以上系统。**
+&#x20;       兼容性**：**要求 ios 15.0 或更高版本。与iPadiPod touch和 iPhone 兼容。 需要macOs和配备 Apple 芯片的 Mac。\
+&#x20;
 
-欢迎加入社区群与我们交流\
-\
-群连接：[https://t.me/SurgeCommunity](https://t.me/SurgeCommunity)
+**官方社区**：[https://community.nssurge.com/](https://community.nssurge.com/)
 
-群频道：[https://t.me/SurgeChannel](https://t.me/SurgeChannel)
+**第三方社区**：\
+SurgeCommunity：[https://t.me/SurgeCommunity](https://t.me/SurgeCommunity)
 
-Pro群：[https://t.me/+yEA-qCcYa0UwN2Yx](https://t.me/+yEA-qCcYa0UwN2Yx)
+Surge Pro：[https://t.me/+yEA-qCcYa0UwN2Yx](https://t.me/+yEA-qCcYa0UwN2Yx)
 
 返回导航页面：[mu-lu-dao-hang.md](mu-lu-dao-hang.md "mention")
