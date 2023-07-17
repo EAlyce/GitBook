@@ -40,14 +40,10 @@ RULE-SET,https://github.com/Blankwonder/surge-list/raw/master/apple.list,Proxy
 RULE-SET,LAN,DIRECT
 GEOIP,CN,DIRECT
 FINAL,Proxy,dns-failed
-```
 
-:tada:一个**公益配置**，基于Surge开发者的最小配置做了修改，自带Warp节点：[\
-](https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/Surge.conf)[https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/Surge.conf](https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/Surge.conf)\
-该配置目前由 **整点猫咪** 提供并维护\
-\
-图片示例教程：\
+图片示例教程：
 1、打开 Surge，在「首页」左上角点击配置名
+```
 
 ![](../.gitbook/assets/photo\_3\_2022-11-16\_09-33-46.jpg)\
 \
