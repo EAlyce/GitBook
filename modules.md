@@ -25,7 +25,8 @@
 \#!desc=Description Here \
 \#（可选）你还可以限制模块的使用平台（可取值为 ios 和 mac）： \
 \#!system=mac\
-
+\
+原文：[https://community.nssurge.com/d/225-module](https://community.nssurge.com/d/225-module)
 
 模块示例：
 
