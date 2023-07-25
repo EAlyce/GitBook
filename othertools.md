@@ -57,22 +57,27 @@ BoxJs 是一款运行在 Surge、Quantumult X、Loon、Shadowrocket、Stash 环�
 
 • 相关生态: [Surge 模块工具](https://github.com/Script-Hub-Org/Script-Hub/wiki/%E7%9B%B8%E5%85%B3%E7%94%9F%E6%80%81:-Surge-%E6%A8%A1%E5%9D%97%E5%B7%A5%E5%85%B7) 支持一键导入 Surge
 
+
+
 原仓库：[https://github.com/Script-Hub-Org/Script-Hub](https://github.com/Script-Hub-Org/Script-Hub)
 
 安装模块：[https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule](https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule)
 
-在安装完成, 并且更新全部外部资源之后:
+在安装完成模块后:
 
-如果你已经完成了信任证书 开启 MitM 等常规操作
+* 安装证书和信任证书。
+* 开启全局代理更新外部资源，确认全部资源更新成功。
+* 将模块生效顺序放到最底部。
+* 开启Mitm,脚本,重写这三个开关。
 
-应该可以正常访问 [https://script.hub](https://script.hub)
+访问 [https://script.hub](https://script.hub)
 
-如果你实在搞不定什么是信任证书 开启 MitM
-
-访问[http://script.hub](http://script.hub) 也可以, 不保证功能完整性
+或者访问[http://script.hub](http://script.hub) , 不保证功能完整性
 
 可在 Safari 的共享中选择 "添加到主屏幕"，Script Hub 将以全屏模式运行
 
 使用文档：[https://github.com/Script-Hub-Org/Script-Hub/wiki](https://github.com/Script-Hub-Org/Script-Hub/wiki)
+
+
 
 返回导航页面：[mu-lu-dao-hang.md](mu-lu-dao-hang.md "mention")
