@@ -1,5 +1,5 @@
 ---
-description: 最近更新于2023/07/14
+description: 最近更新于 2023/07/25
 ---
 
 # 前言
@@ -15,8 +15,6 @@ description: 最近更新于2023/07/14
 
 
 快速上手Surge请点击：[快速入门](basic/)
-
-
 
 [pei-zhi-tong-bu.md](pei-zhi-tong-bu.md "mention") Surge iOS配置与Surge Mac标准配置通用，您可直接使用iOS端配置，本教程不再另作Mac端教程，请您自行在网络上查找其他教程。
 
