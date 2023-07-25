@@ -14,17 +14,19 @@ BoxJs 是一款运行在 Surge、Quantumult X、Loon、Shadowrocket、Stash 环�
 
 **二、Sub-Store**\
 \
-适用于 Loon 、 Surge 和 Quantumult X 的高级订阅管理工具。完全本地解析，无订阅泄露的风险。\
-\
-教程：[https://limbopro.com/archives/Sub-Store.html#gsc.tab=0](https://limbopro.com/archives/Sub-Store.html#gsc.tab=0)
+适用于 Loon 、 Surge 和 Quantumult X 的高级订阅管理工具。完全本地解析，无订阅泄露的风险。
 
-关于Sub-Store常见问题的解决方法：
+模块安装链接：[https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Surge.sgmodule](https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Surge.sgmodule)\
+\
+安装完成后
 
 1. 确认安装substore模块，并且安装证书和信任证书。
 2. 开启全局代理更新外部资源，确认全部资源更新成功。
 3. 将模块生效顺序放到最底部。
 4. 开启Mitm,脚本,重写这三个开关。
-5. 代理规则添加「DOMAIN-SUFFIX」→「vercel.app」走代理节点
+5. 代理规则添加「DOMAIN-SUFFIX」→「vercel.app」走代理节点\
+   \
+   访问：[https://sub.store/](https://sub.store/)
 
 **三、Geoip**\
 \
