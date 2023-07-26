@@ -4,6 +4,12 @@
 \
 BoxJs 是一款运行在 Surge、Quantumult X、Loon、Shadowrocket、Stash 环境下的脚本！\
 \
+查看Boxjs官方频道：[https://t.me/chavyscripts/66](https://t.me/chavyscripts/66)
+
+Boxjs视频：[https://chavyleung.gitbook.io/boxjs/awesome/videos](https://chavyleung.gitbook.io/boxjs/awesome/videos)
+
+Boxjs壁纸：[https://chavyleung.gitbook.io/boxjs/awesome/wallpapers](https://chavyleung.gitbook.io/boxjs/awesome/wallpapers)\
+\
 相关文档：[https://docs.boxjs.app/](https://docs.boxjs.app/)
 
 安装链接：[https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule](https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule)
