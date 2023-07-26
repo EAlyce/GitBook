@@ -2,10 +2,8 @@
 
 Surge官方手册：[https://manual.nssurge.com/](https://manual.nssurge.com/) 该手册中包含了 Surge 所有配置的说明与指引。
 
-[.](./ "mention")\
-\
-[basic](basic/ "mention")\
-\
+[.](./ "mention")
+
 [dao-ru-pei-zhi.md](basic/dao-ru-pei-zhi.md "mention")
 
 [ding-yue-zhuan-huan.md](basic/ding-yue-zhuan-huan.md "mention")
@@ -20,10 +18,10 @@ Surge官方手册：[https://manual.nssurge.com/](https://manual.nssurge.com/) �
 
 [xin-jian-fen-liu-gui-ze.md](basic/xin-jian-fen-liu-gui-ze.md "mention")
 
-[othertools.md](othertools.md "mention")\
-\
-[modules.md](modules.md "mention")\
-\
+[othertools.md](othertools.md "mention")
+
+[modules.md](modules.md "mention")
+
 [zhua-qu-liu-liang.md](zhua-qu-liu-liang.md "mention")
 
 [pei-zhi-tong-bu.md](pei-zhi-tong-bu.md "mention")
@@ -32,7 +30,10 @@ Surge官方手册：[https://manual.nssurge.com/](https://manual.nssurge.com/) �
 
 [chang-jian-wen-ti.md](chang-jian-wen-ti.md "mention")
 
-[qi-ta-jiao-cheng.md](qi-ta-jiao-cheng.md "mention")\
-\
-[guan-yu.md](guan-yu.md "mention")
+[qi-ta-jiao-cheng.md](qi-ta-jiao-cheng.md "mention")
+
+[guan-yu.md](guan-yu.md "mention")\
+
+
+
 
