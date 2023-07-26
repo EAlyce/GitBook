@@ -4,8 +4,6 @@ description: 最近更新于 2023/07/26
 
 # 前言
 
-&#x20;一、
-
 在阅读并使用本教程前，请您注意：
 
 `1、本教程是入门基础教程,由非官方人员编写，它并不适用于所有人。`
@@ -13,8 +11,6 @@ description: 最近更新于 2023/07/26
 `2、本教程仅面向正版用户。`
 
 `3、使用Surge需要一定的代理软件与网络相关基础知识。`
-
-
 
 快速上手Surge请点击：[快速入门](basic/)
 
@@ -54,17 +50,13 @@ Surge开发者 `Surge Networks Inc.` \
 
 ### 三、其他说明
 
-&#x20;      首次使用Surge有7天试用期，若您在试用期内购买Surge，可以在 更多->授权管理->反激活当前设备，然后选择升级到Surge Pro,点击恢复购买，选择：
-
-\
+&#x20;      首次使用Surge有7天试用期，若您在试用期内购买Surge，可以在 更多->授权管理->反激活当前设备，然后选择升级到Surge Pro,点击恢复购买，选择：\
 &#x20;      1、恢复App内购买项目；\
-\
 &#x20;      2、使用邮箱恢复。
 
 &#x20;      授权管理以及申请TestFlight：[https://nssurge.com/account](https://nssurge.com/account)\
-\
-&#x20;      `请注意TF版`**`不能和商店版共存`**`，若想使用另一版本则需要卸载原先版本，`\
-&#x20;  **`TF占用一个设备名额，使用TF版本前请先激活商店版，再卸载商店版，然后下载TF版本即可。`**
+&#x20;      请注意TF版不能和商店版共存，若想使用另一版本则需要卸载原先版本，\
+&#x20;  TF占用一个设备名额，使用TF版本前请先激活商店版，再卸载商店版，然后下载TF版本即可。
 
 &#x20;      <mark style="color:blue;">**Surge 5 支持的协议：HTTP、HTTPS、SOCKS5、SOCKS5 via TLS、Snell、Shadowsocks、VMess、Trojan、SSH、WireGuard、TUIC**</mark>
 
