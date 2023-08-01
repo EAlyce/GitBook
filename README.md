@@ -55,8 +55,11 @@ Surge开发者 `Surge Networks Inc.` \
 &#x20;      2、使用邮箱恢复。
 
 &#x20;      授权管理以及申请TestFlight：[https://nssurge.com/account](https://nssurge.com/account)\
-&#x20;      请注意TF版不能和商店版共存，若想使用另一版本则需要卸载原先版本，\
-&#x20;  TF占用一个设备名额，使用TF版本前请先激活商店版，再卸载商店版，然后下载TF版本即可。
+&#x20;      关于TestFlight说明：
+
+&#x20;      `TF版不能和商店版共存，若想使用另一版本则需要卸载原先版本。`\
+&#x20;      `TF占用一个设备名额，使用TF版本前请先激活商店版，再卸载商店版，然后下载TF版本即可。`\
+&#x20;      `一个授权只能拥有一个TF，如需更换TestFlight账号请在官网退出当前账号并重新发送TF邀请链接。`
 
 &#x20;      <mark style="color:blue;">**Surge 5 支持的协议：HTTP、HTTPS、SOCKS5、SOCKS5 via TLS、Snell、Shadowsocks、VMess、Trojan、SSH、WireGuard、TUIC**</mark>
 
