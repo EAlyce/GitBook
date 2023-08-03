@@ -1,6 +1,8 @@
 # 导入配置
 
 打开 Surge，在「**首页**」左上角点击配置名 - 「**从 URL 下载配置**」，**将输入框清除干净后**，粘贴懒人配置链接。\
+\
+若无法下载请新建空白配置，将内容复制粘贴即可。\
 常用配置（排名不分先后）：
 
 **深巷有喵**: [https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-Mini.conf](https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-Mini.conf)
