@@ -2,7 +2,7 @@
 
 一、使用Sub-Store进行本地订阅转换\
 \
-&#x20;      教程：[https://limbopro.com/archives/Sub-Store.html#gsc.tab=0](https://limbopro.com/archives/Sub-Store.html#gsc.tab=0)
+&#x20;[othertools.md](../othertools.md "mention") 点击跳转
 
 二、使用第三方订阅转换（源自网络收集，有隐私风险，慎用，此处仅作示例）\
 \
