@@ -1,9 +1,6 @@
 # 关于
 
-联系方式：
-
-| <p><br>support@surge.community</p> |
-| ---------------------------------- |
+联系方式：support@surge.community
 
 最后非常感谢诸多开发者对Surge社区的贡献。
 
