@@ -32,7 +32,7 @@ Surge官方手册：[https://manual.nssurge.com/](https://manual.nssurge.com/) �
 
 [qi-ta-jiao-cheng.md](qi-ta-jiao-cheng.md "mention")
 
-[guan-yu.md](guan-yu.md "mention")\
+[mian-ze-sheng-ming.md](mian-ze-sheng-ming.md "mention")\
 
 
 

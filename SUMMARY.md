@@ -17,4 +17,4 @@
 * [Github仓库分享](github-cang-ku-fen-xiang.md)
 * [常见问题](chang-jian-wen-ti.md)
 * [其他教程](qi-ta-jiao-cheng.md)
-* [关于](guan-yu.md)
+* [免责声明](mian-ze-sheng-ming.md)

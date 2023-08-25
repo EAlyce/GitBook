@@ -4,8 +4,8 @@
 
 整点猫咪的其他教程
 
-{% content-ref url="http://localhost:5000/o/fKlIq46Te6Y53JHQMuFs/s/JhhXkpuqtPcGHeXvG1Xw/" %}
-[各种不规范版教程](http://localhost:5000/o/fKlIq46Te6Y53JHQMuFs/s/JhhXkpuqtPcGHeXvG1Xw/)
+{% content-ref url="http://127.0.0.1:5000/o/fKlIq46Te6Y53JHQMuFs/s/JhhXkpuqtPcGHeXvG1Xw/" %}
+[各种不规范版教程](http://127.0.0.1:5000/o/fKlIq46Te6Y53JHQMuFs/s/JhhXkpuqtPcGHeXvG1Xw/)
 {% endcontent-ref %}
 
 MAICOO & pysta 编写的Surge Wiki：[https://www.notion.so/maicoo/Surge-Wiki-6cf0f27da05348a9bca0de23904cdf55](https://www.notion.so/maicoo/Surge-Wiki-6cf0f27da05348a9bca0de23904cdf55)\
