@@ -25,6 +25,8 @@ Surge开发者 `Surge Networks Inc.` \
 
 官方手册：[https://manual.nssurge.com/](https://manual.nssurge.com/)
 
+Surge iOS 发行说明（历史版本记录包含Mac surge）：[https://kb.nssurge.com/surge-knowledge-base/release-notes/surge-ios](https://kb.nssurge.com/surge-knowledge-base/release-notes/surge-ios)
+
 ### 一、购前须知
 
 &#x20;      目前 ，Surge 已经被 Apple 根据政府要求从中国大陆区的 App Store 移除，之前在中国大陆商店购买此软件的用户将不能获得更新或重新下载。&#x20;
