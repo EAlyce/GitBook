@@ -1,5 +1,5 @@
 ---
-description: 最近更新于 2023/08/03
+description: 最近更新于 2023/10/10
 ---
 
 # 前言
@@ -61,7 +61,7 @@ Surge开发者 `Surge Networks Inc.` \
 &#x20;      `TF占用一个设备名额，使用TF版本前请先激活商店版，再卸载商店版，然后下载TF版本即可。`\
 &#x20;      `一个授权只能拥有一个TF，如需更换TestFlight账号请在官网退出当前账号并重新发送TF邀请链接。`
 
-&#x20;      <mark style="color:blue;">**Surge 5 支持的协议：HTTP、HTTPS、SOCKS5、SOCKS5 via TLS、Snell、Shadowsocks、VMess、Trojan、SSH、WireGuard、TUIC**</mark>
+&#x20;      <mark style="color:blue;">**Surge 5 支持的协议：HTTP、HTTPS、SOCKS5、SOCKS5 via TLS、Snell、Shadowsocks、VMess、Trojan、SSH、WireGuard、TUIC、Hysteria 2**</mark>
 
 **兼容性：**
 
