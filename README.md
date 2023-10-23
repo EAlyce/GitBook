@@ -1,12 +1,12 @@
 ---
-description: 最近更新于 2023/10/10
+description: 最近更新于 2023/10/23
 ---
 
 # 前言
 
 在阅读并使用本教程前，请您注意：
 
-`1、本教程是入门基础教程,由非官方人员编写，它并不适用于所有人。`
+`1、本教程仅仅是入门基础教程,它并不适用于所有人。`
 
 `2、本教程仅面向正版用户。`
 
@@ -77,6 +77,8 @@ Surge iOS 发行说明（历史版本记录包含Mac surge）：[https://kb.nssu
 &#x20;
 
 **官方社区**：[https://community.nssurge.com/](https://community.nssurge.com/)
+
+**官方频道：**[**https://t.me/SurgeTestFlightFeed**](https://t.me/SurgeTestFlightFeed)
 
 **第三方社区**：\
 SurgeCommunity：[https://t.me/SurgeCommunity](https://t.me/SurgeCommunity)
