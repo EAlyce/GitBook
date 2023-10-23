@@ -22,8 +22,6 @@ Surge官方手册：[https://manual.nssurge.com/](https://manual.nssurge.com/) �
 
 [modules.md](modules.md "mention")
 
-[zhua-qu-liu-liang.md](zhua-qu-liu-liang.md "mention")
-
 [pei-zhi-tong-bu.md](pei-zhi-tong-bu.md "mention")
 
 [github-cang-ku-fen-xiang.md](github-cang-ku-fen-xiang.md "mention")

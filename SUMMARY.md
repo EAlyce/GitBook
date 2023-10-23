@@ -12,7 +12,6 @@
   * [新建分流规则](basic/xin-jian-fen-liu-gui-ze.md)
 * [第三方工具](othertools.md)
 * [模块](modules.md)
-* [抓取流量](zhua-qu-liu-liang.md)
 * [配置同步](pei-zhi-tong-bu.md)
 * [Github仓库分享](github-cang-ku-fen-xiang.md)
 * [常见问题](chang-jian-wen-ti.md)
