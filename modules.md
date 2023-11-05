@@ -47,9 +47,9 @@ Panel2 = script-name=Scriptname2,update-interval=120
 
 **二、第三方模块**
 
-来源于网络，不保证永久可用。
+不知名模块合集：
 
-
+[https://yfamily.vercel.app/surge.html](https://yfamily.vercel.app/surge.html)
 
 Key的模块仓库：[https://github.com/Keywos/rule/tree/main/module](https://github.com/Keywos/rule/tree/main/module)
 
