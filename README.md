@@ -75,6 +75,6 @@ Surge iOS 发行说明（历史版本记录包含Mac surge）：[https://kb.nssu
 **第三方社区**：\
 SurgeCommunity：[https://t.me/SurgeCommunity](https://t.me/SurgeCommunity)
 
-Surge Pro：[https://t.me/+yEA-qCcYa0UwN2Yx](https://t.me/+yEA-qCcYa0UwN2Yx)
+Surge Pro：[https://t.me/SURGEPRO](https://t.me/SURGEPRO)
 
 返回导航页面：[mu-lu-dao-hang.md](mu-lu-dao-hang.md "mention")
