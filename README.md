@@ -23,10 +23,6 @@ Surge iOS 发行说明（历史版本记录包含Mac surge）：[https://kb.nssu
 
 &#x20;      目前 ，Surge 已经被 Apple 根据政府要求从中国大陆区的 App Store 移除，之前在中国大陆商店购买此软件的用户将不能获得更新或重新下载。&#x20;
 
-关于Surge的一些历史：
-
-[https://blankwonder.medium.com/surge-%E8%AE%B0%E4%BA%8B-6010f1910111](https://blankwonder.medium.com/surge-%E8%AE%B0%E4%BA%8B-6010f1910111)
-
 &#x20;      Surge 目前最新版本为 Surge 5，**在非中国大陆区**的Apple Store 搜到。 Surge 的网络代理功能需要解锁 Pro 授权。
 
 &#x20;      Surge 5 为付费订阅制，Surge for iOS 3设备授权价格49.99美元。其他价格详见：
@@ -37,10 +33,9 @@ Surge iOS 发行说明（历史版本记录包含Mac surge）：[https://kb.nssu
 
 ### 二、购买方式
 
-&#x20;      1、商店内购
+&#x20;      1、非中国区商店内购
 
-&#x20;      2、官网(支持信用卡与支付宝)： [https://nssurge.com/buy\_now](https://nssurge.com/buy\_now)\
-&#x20;          `推荐官购买，Apple大额内购可能会导致账号风控并且封号。`
+&#x20;      2、官网(支持信用卡与支付宝)： [https://nssurge.com/buy\_now](https://nssurge.com/buy\_now)
 
 ### 三、其他说明
 
